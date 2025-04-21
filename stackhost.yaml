@@ -9,7 +9,7 @@ commands:
   build:
     - "pip install -r requirements.txt"
   start:
-    - "python3 -m AB"
+    - "python3 -m "
 
 env:
   - "ENVIRONMENT=production"
