@@ -1,7 +1,7 @@
 # ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
-# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
-# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
-# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+# sᴜᴘᴘᴏʀᴛ :- @Animeheaven_community
+# ᴜᴘᴅᴀᴛᴇs :- @All_anime_shonen_official
+# ɴᴇᴛᴡᴏʀᴋ :- @Uzumaki_X_Naruto_6
 
 import importlib
 import re
@@ -105,7 +105,7 @@ buttons2 = [
     ],
     [
         InlineKeyboardButton(
-            text="Bot support🚑", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="Bot support🚑", url=f"https://t.me/Animeheaven_community"
         ),
     ],
 ]
@@ -120,7 +120,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🛠️𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url=f"https://t.me/kakashi_bots_updates"
+            text="🛠️𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url=f"https://t.me/All_anime_shonen_official"
         ),
         InlineKeyboardButton(text="💬𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
@@ -128,7 +128,7 @@ buttons = [
         InlineKeyboardButton(
             text="Vc music 🎧", url=f"https://t.me/{BOT_USERNAME}?start=vhelp"
         ),
-        InlineKeyboardButton(text="🌐𝙊𝙪𝙧 𝙉𝙚𝙩𝙬𝙤𝙧𝙠", url=f"https://t.me/Otaku_Binge"),
+        InlineKeyboardButton(text="🌐𝙊𝙪𝙧 𝙉𝙚𝙩𝙬𝙤𝙧𝙠", url=f"https://t.me/Uzumaki_X_Naruto_6"),
     ],
     [
         InlineKeyboardButton(text="💡𝙃𝙚𝙡𝙥 𝙖𝙣𝙙 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨", callback_data="help_back"),
