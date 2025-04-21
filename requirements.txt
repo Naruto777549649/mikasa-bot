@@ -38,6 +38,9 @@ pretty_errors
 psutil
 psycopg2-binary==2.9.10
 PyDictionary
+pyrogram==2.0.51
+telegram==13.14
+telethon==1.25.0
 pytz==2025.2
 pymongo==4.12.0
 python-arq==6.0.7
