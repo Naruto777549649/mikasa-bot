@@ -48,7 +48,6 @@ pyrate-limiter==2.8.5
 pykeyboard==0.1.5
 pynewtonmath==1.0.1
 pyrogram==2.0.51
-python-telegram-bot==13.14
 regex==2024.11.6
 requests==2.32.3
 requests-toolbelt==1.0.0
