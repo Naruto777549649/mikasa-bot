@@ -47,7 +47,6 @@ python-arq==6.0.7
 pyrate-limiter==2.8.5
 pykeyboard==0.1.5
 pynewtonmath==1.0.1
-pyrogram==2.0.51
 regex==2024.11.6
 requests==2.32.3
 requests-toolbelt==1.0.0
@@ -65,7 +64,6 @@ spongemock==1.0.0
 sqlalchemy==1.4.41
 telegram==0.0.1
 telegraph==2.2.0
-telethon==1.25.0
 TgCrypto
 tornado==6.1
 tqdm==4.67.1
