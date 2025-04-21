@@ -9,7 +9,7 @@ commands:
   build:
     - "pip install -r requirements.txt"
   start:
-    - "pip install --upgrade pip"
+    - "pip install python-telegram-bot --upgrade"
   start:
     - "python3 -m Makimatobot"
 
