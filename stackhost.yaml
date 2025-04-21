@@ -9,10 +9,6 @@ commands:
   build:
     - "pip install -r requirements.txt"
   start:
-    - "pip install python-telegram-bot --upgrade"
-  start:
-    "pip install --upgrade pip" 
-  start:
     - "python3 -m Makimatobot"
 
 env:
